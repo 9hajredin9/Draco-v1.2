@@ -22,9 +22,12 @@
 - **Open Source**: DRACO is an open-source project, allowing you to modify and customize it to your needs.
 - **Cross-Platform**: Works on Windows with future plans to extend to Linux and macOS.
 
-## Getting Started:
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/9hajredin9/Draco-v1.2.git
+## Download the Installer for Windows NOW !:
+[Download DRACO Installer v1.2](https://github.com/9hajredin9/Draco-v1.2/releases/download/v1.2/draco-installer-v1.2.exe)
+
+## Notes:
+- The installer is **only compatible with Windows**.
+- Please ensure that your system meets the minimum requirements before installing.
+
 
 
