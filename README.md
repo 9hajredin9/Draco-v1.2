@@ -23,9 +23,9 @@
 
 ## Screenshots:
 
-![Packet Sniffer GUI](https://github.com/9hajredin9/Draco-v1.2/blob/main/Capture.png)
+![Packet Sniffer GUI](https://raw.githubusercontent.com/9hajredin9/Draco-v1.2/blob/main/Capture.png)
 _Screenshot of the DRACO GUI in action (3)_
-![Packet Sniffer GUI](https://github.com/9hajredin9/Draco-v1.2/blob/main/chart.png)
+![Packet Sniffer GUI](https://raw.githubusercontent.com/9hajredin9/Draco-v1.2/blob/main/chart.png)
 _Screenshot of the DRACO GUI in action (2)_
-![Packet Sniffer GUI](https://github.com/9hajredin9/Draco-v1.2/blob/main/packet%20inspection.png)
+![Packet Sniffer GUI](https://raw.githubusercontent.com/9hajredin9/Draco-v1.2/blob/main/packet%20inspection.png)
 _Screenshot of the DRACO GUI in action_
