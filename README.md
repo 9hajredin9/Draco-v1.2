@@ -10,6 +10,12 @@
 - **Packet Filtering**: Filter packets dynamically during capture to focus on specific protocols like TCP, UDP, HTTP, and more.
 - **PCAP File Analysis**: Analyze previously captured PCAP files for deeper inspection.
 
+- ## What's New ? :
+- **New Features**:
+    - Added a **chart** to measure packet flow and visualize network activity.
+    - Introduced **separate packet counters** for better tracking of network traffic.
+    - Enhanced **packet inspection** with more advanced features for analyzing packet contents and details.
+
 
 ## Why Choose DRACO?
 - **User-Friendly Interface**: No need for complex setups—just plug in and start sniffing.
