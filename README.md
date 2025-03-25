@@ -23,7 +23,7 @@
 - **Cross-Platform**: Works on Windows with future plans to extend to Linux and macOS.
 
 ## Download the Installer for Windows NOW !:
-[Download DRACO Installer v1.2](https://github.com/9hajredin9/Draco-v1.2/releases/download/v1.2/draco-installer-v1.2.exe)
+[Download DRACO Installer v1.2](https://github.com/9hajredin9/Draco-v1.2/releases/edit/Draco-v1.2)
 
 ## Notes:
 - The installer is **only compatible with Windows**.
